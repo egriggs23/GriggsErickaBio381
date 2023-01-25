@@ -5,4 +5,4 @@ date: '2023-01-25'
 output: html_document
 ---
 
-[Homework #2](file:///C:/Users/Ericka/Desktop/GriggsErickaBio381/homework_02.htmll)
+[Homework #2](file:///C:/Users/Ericka/Desktop/GriggsErickaBio381/homework-02.html)
