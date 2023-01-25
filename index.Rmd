@@ -1,0 +1,8 @@
+---
+title: "Homework_02.Rmd"
+author: "Ericka Griggs"
+date: '2023-01-25'
+output: html_document
+---
+
+My favorite bird is the common loon. 
