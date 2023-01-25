@@ -1,8 +1,8 @@
 ---
-title: "Homework_02.Rmd"
+title: "My Webpage!"
 author: "Ericka Griggs"
 date: '2023-01-25'
 output: html_document
 ---
 
-My favorite bird is the common loon. 
+[Homework #2](file:///C:/Users/Ericka/Desktop/GriggsErickaBio381/homework_02.html)
