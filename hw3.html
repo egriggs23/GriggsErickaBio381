@@ -371,13 +371,27 @@ that with just a `</p>
 <p>2.<code>(\w+), (\w+), (.*)</code> replace <code>\2 \1 \(\3\)</code>
 This statement is defining one or more objects as one or more characters
 and then reordering the objects.</p>
-<p>3.<code>(\d{4}.)</code> replace <code>\n\1</code></p>
-<p>4.<code>(\d{4}) (\w+\s*\w+\s*)*</code> replace <code>\2_\1</code></p>
+<p>3.<code>(\d{4}.)</code> replace <code>\n\1</code> This statement is
+defining digits by 4 and then adding a line break before each 4 digit
+code.</p>
+<p>4.<code>(\d{4}) (\w+\s*\w+\s*)*</code> replace <code>\2_\1</code>
+This statement is redefining object and then adding the song title and
+then changing the order and added an underscore.</p>
 <p>5.<code>(\w)\w+,(\w+),(\d+.\d+),(\d+)</code> replace
-<code>\1_\2,\4</code></p>
-<p>6.<code>(\w{6})(\w+),(\d+)</code> replace <code>\1,\3</code></p>
+<code>\1_\2,\4</code> This statement first defines 4 objects, 1st letter
+of first word, entire second word, and then all the numbers in the
+statement. It then replaces the statement with just the first letter of
+the first word, followed by an underscore, and with the fourth object of
+just the last digits.</p>
+<p>6.<code>(\w{6})(\w+),(\d+)</code> replace <code>\1,\3</code> This
+statement redefined the object as the first four letters of the word
+then replacing it with a shortened word.</p>
 <p>7.<code>(\w{3})\w+,(\w{3})\w+,(\d+.\d+),(\d+)</code> replace
-<code>\1\2,\4,\3</code></p>
+<code>\1\2,\4,\3</code> This statement redefines the objects as the
+first three letters of word one, then the first three letters of word
+two, followed by the digits as two separate objects. The replacement is
+just the first three letters of word one and two and then the digits
+rearranged in their order.</p>
 </div>
 
 

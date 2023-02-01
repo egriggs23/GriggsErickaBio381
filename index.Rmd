@@ -5,3 +5,5 @@ date: '2023-01-25'
 output: html_document
 
 [Homework #2](homework-02.html)
+
+[Homework #3](hw3.html)
