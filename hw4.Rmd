@@ -1,0 +1,82 @@
+---
+title: "HW 4"
+author: "Ericka Griggs"
+date: '2023-02-08'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. 
+2.
+a.
+```{r}
+z<-c(seq(1,8),seq(7,1))
+print(z)
+```
+
+ b. 
+   ```{r}
+rep(1:5, c(1,2,3,4,5))
+```
+
+
+
+ c. 
+  ```{r}
+rep(5:1, c(1,2,3,4,5))
+```
+
+3.
+  ```{r}
+z <- runif(2, max = 100)
+print(z)
+x <- 66.17
+print(x)
+y<-63.75
+print(y)
+polcor <- c(sqrt((x^2)*(y^2)),atan(y/x))
+print(polcor)
+```
+
+
+4. 
+
+```{r}
+queue <- c("sheep", "fox", "owl", "ant")
+print(queue)
+queue <- append(queue,"serpent")
+queue <- c(queue[2:5])
+print(queue)
+queue <- append("donkey",queue)
+print(queue)
+queue <-c(queue[1:4])
+print(queue)
+queue <- c(queue[1],queue[2],queue[4])
+print(queue)
+queue <- c(queue[1:2],"aphid", "ant")
+print(queue)
+which(queue == "aphid")
+```
+
+
+```{r}
+```
+
+5.#Use R to create a vector of all of the integers from 1 to 100 
+#that are not divisible by 2, 3, or 7. You will need one of 
+#the arithmetic operators on this cheat sheet.
+
+```{r}
+z <- seq(1,100)
+print(z)
+
+for(x in 1:100)
+  if(! x%%7 == 0)
+    if(! x%%3 == 0)
+      if(!x%%2==0)
+print(x)
+```
+
