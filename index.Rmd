@@ -1,12 +1,12 @@
 ---
 output: 
   html_document: 
-    theme: yeti
+    theme: cosmo
 ---
 ---
-title: "My Webpage"
+title: "Biology 381 - Computational Biology"
 author: "Ericka Griggs"
-date: '2023-01-25'
+date: 'Spring 2023'
 output: html_document
 ---
 
