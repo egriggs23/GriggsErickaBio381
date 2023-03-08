@@ -6,8 +6,9 @@ output: html_document
 ---
 ---
 
-1. The iris dataset contains 150 observations of 5 variables.
+# 1. 
 ```{r}
+#The iris dataset contains 150 observations of 5 variables.
 library(tidyverse)
 data("iris")
 head(iris)
@@ -15,37 +16,41 @@ head(iris)
 ```
 
 
-2. The iris1 dataset now contains 56 observations of 5 variables.
+# 2. 
 ```{r}
+#The iris1 dataset now contains 56 observations of 5 variables.
 iris1<-filter(iris, Species %in% c("virginica", "versicolor"),Sepal.Length > 6.0 ,Sepal.Width > 2.5) 
 
 ```
 
-3.The iris1 dataset now contains 56 observations of 3 variables.
+# 3. 
 ```{r}
+#iris1 dataset now contains 56 observations of 3 variables.
 iris2<-select(iris1, Species, Sepal.Length, Sepal.Width)
 
 ```
 
-4. 
+# 4. 
 ```{r}
 iris3<-arrange(iris2, by = desc(Sepal.Length))
 head(iris3)
 ```
 
-5. The iris4 dataset now contains 56 observations of 4 variables.
+# 5. 
 ```{r}
+#The iris4 dataset now contains 56 observations of 4 variables.
 iris4<-mutate(iris3,Sepal.Area=Sepal.Length*Sepal.Width)
+head(iris4)
 ```
 
-6.
+# 6.
 ```{r}
 
 iris5<-summarize(iris4,meanSepal.Length=mean(Sepal.Length, na.rm=TRUE),meanSepal.Width=mean(Sepal.Width, na.rm=TRUE),TotalNumber=n())
 print(iris5)
 ```
 
-7. 
+# 7. 
 ```{r}
 
 irisSpecies<-group_by(iris4,Species)
@@ -53,7 +58,7 @@ iris6<-summarize(irisSpecies, meanSepal.Length=mean(Sepal.Length, na.rm=TRUE),me
 print(iris6)
 ```
 
-8. 
+# 8. 
 ```{r}
 
 irisFinal <- iris %>% 
@@ -63,7 +68,7 @@ print(irisFinal)
 
 ```
 
-9. 
+# 9. 
 
 ```{r}
 iris_longer <- iris %>% pivot_longer(cols=c(Sepal.Length:Sepal.Width,Petal.Length:Petal.Width), names_to = "Measure", values_to = "Value")
