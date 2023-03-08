@@ -17,3 +17,5 @@ output: html_document
 [Homework #4](hw4.html)
 
 [Homework #5](hw5.html)
+
+[Homework #6](HW6.html)

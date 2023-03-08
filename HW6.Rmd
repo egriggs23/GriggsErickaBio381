@@ -1,0 +1,76 @@
+---
+title: "HW6"
+author: "Ericka Griggs"
+date: '2023-03-01'
+output: html_document
+---
+---
+
+1. The iris dataset contains 150 observations of 5 variables.
+```{r}
+library(tidyverse)
+data("iris")
+head(iris)
+
+```
+
+
+2. The iris1 dataset now contains 56 observations of 5 variables.
+```{r}
+iris1<-filter(iris, Species %in% c("virginica", "versicolor"),Sepal.Length > 6.0 ,Sepal.Width > 2.5) 
+
+```
+
+3.The iris1 dataset now contains 56 observations of 3 variables.
+```{r}
+iris2<-select(iris1, Species, Sepal.Length, Sepal.Width)
+
+```
+
+4. 
+```{r}
+iris3<-arrange(iris2, by = desc(Sepal.Length))
+head(iris3)
+```
+
+5. The iris4 dataset now contains 56 observations of 4 variables.
+```{r}
+iris4<-mutate(iris3,Sepal.Area=Sepal.Length*Sepal.Width)
+```
+
+6.
+```{r}
+
+iris5<-summarize(iris4,meanSepal.Length=mean(Sepal.Length, na.rm=TRUE),meanSepal.Width=mean(Sepal.Width, na.rm=TRUE),TotalNumber=n())
+print(iris5)
+```
+
+7. 
+```{r}
+
+irisSpecies<-group_by(iris4,Species)
+iris6<-summarize(irisSpecies, meanSepal.Length=mean(Sepal.Length, na.rm=TRUE),meanSepal.Width=mean(Sepal.Width, na.rm=TRUE),Sample=n())
+print(iris6)
+```
+
+8. 
+```{r}
+
+irisFinal <- iris %>% 
+  filter(Species==c("virginica","versicolor"),Sepal.Length > 6.0, Sepal.Width > 2.5) %>% select(Species, Sepal.Width, Sepal.Length) %>% arrange(desc(Sepal.Length)) %>%mutate(Sepal.Area=Sepal.Length*Sepal.Width) %>% group_by(Species) %>%summarise(Avg.Sep.Lenght=mean(Sepal.Length),Avg.Sep.Width=mean(Sepal.Width),
+Sample.N=n())
+print(irisFinal)
+
+```
+
+9. 
+
+```{r}
+iris_longer <- iris %>% pivot_longer(cols=c(Sepal.Length:Sepal.Width,Petal.Length:Petal.Width), names_to = "Measure", values_to = "Value")
+head(iris_longer)
+```
+
+
+
+
+
