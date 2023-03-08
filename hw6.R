@@ -17,3 +17,6 @@ iris4<-mutate(iris3,Sepal.Area=Sepal.Length*Sepal.Width)
 iris5<-summarize(iris4,meanSepal.Length=mean(Sepal.Length, na.rm=TRUE),meanSepal.Width=mean(Sepal.Width, na.rm=TRUE),TotalNumber=n())
 print(iris5)
 
+irisSpecies<-group_by(iris4,Species)
+iris6<-summarize(irisSpecies, meanSepal.Length=mean(Sepal.Length, na.rm=TRUE),meanSepal.Width=mean(Sepal.Width, na.rm=TRUE),Sample=n())
+print(iris6)
