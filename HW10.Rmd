@@ -21,7 +21,7 @@ print(count)
 ```
 
 ```{r}
-# 2
+#Question 2
 z <- c(2, 0, 3, 12,0, 5, 19, 23, 64,0,0)
 zsub <- z[z ==0]
 length(zsub)
@@ -29,7 +29,7 @@ length(zsub)
 ```
 
 ```{r}
-#3
+#Question 3
 my_matrix <- function(x=2, y=3){ 
 m <- matrix(nrow = x,ncol = y)
 
@@ -43,6 +43,9 @@ for (i in 1:x) {
 
 my_matrix()
 
+```
+```{r}
+#Question 4
 ```
 
 

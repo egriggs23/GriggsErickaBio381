@@ -41,12 +41,13 @@ ggplot(dff, aes(x = Treatment, y = Weight)) +
 
 
 
-Ctrl <- rnorm(n=10, mean=1.032, sd
+Ctrl <- rnorm(n=1, mean=1.032, sd
               =0.58)
 
-Trt1 <- rnorm(n=10, mean=6.66, sd
+Trt1 <- rnorm(n=1, mean=6.66, sd
               =0.79)
-Trt2 <- rnorm(n=10, mean=5.526, sd
+Trt2 <- rnorm(n=1
+              , mean=5.526, sd
               =0.44)
 df <- data.frame(Ctrl,Trt1,Trt2, stringsAsFactors = FALSE)
 

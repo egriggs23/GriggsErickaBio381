@@ -56,7 +56,6 @@ ggplot(dff, aes(x = Treatment, y = Weight)) +
 
 ```
 
-# 5
 
 # 6
 ```{r}
@@ -77,3 +76,5 @@ summary(aov2)
 
 ```
 
+# 7 & 8
+The way this dataset is set up it is always significant no matter what I change the sample sizes to. So instead I adjusted the means and raising the control mean changes the signifigance of the datasets. 
