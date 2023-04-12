@@ -1,3 +1,11 @@
+---
+title: "hw9"
+author: "Ericka Griggs"
+date: '2023-03-30'
+output: html_document
+---
+
+```{r,warning=FALSE,message=FALSE}
 #Load Library
 library(sqldf)
 library(dplyr)
@@ -5,20 +13,28 @@ library(tidyverse)
 library(ggplot2)
 library(plotly)
 
+```
+```{r}
 #Source Functions
 source("hw9_functions.R")
 
-
+```
+```{r}
 #Global Variables
 z<- PlantGrowth
+```
 
+
+```{r}
 # Programs
-
 x <-random_data(z)
 calculate_anova(x)
 box_plot(x)
 
-#new program
+```
+```{r}
+#Part 2
 scatter_plot(x)
+
 
 

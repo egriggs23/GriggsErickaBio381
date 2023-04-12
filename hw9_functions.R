@@ -25,15 +25,19 @@ dff <- df %>% pivot_longer(cols=c('Ctrl', 'Trt1', 'Trt2'),names_to='Treatment',v
 
 
 #calculate stuff
-calcualte_anova <- function(z) {original.aov <- aov(Weight ~ Treatment, data = dff)
-return(summary(original.aov))}
+calculate_anova <- function(z) {original.aov <- aov(Weight ~ Treatment, data = x)
+l <-summary(original.aov)
+return(l)}
 
 #plotting
 
-plot <- function(z) {ggplot(dff, aes(x = Treatment, y = Weight)) +
+box_plot <- function(z) {ggplot(z, aes(x = Treatment, y = Weight)) +
   geom_boxplot()}
 
 
 #summarize
+
+scatter_plot <- function(z) {ggplot(z, aes(x = Treatment, y = Weight)) +
+    geom_point()}
 
 

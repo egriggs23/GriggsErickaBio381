@@ -1,0 +1,48 @@
+---
+title: "HW10"
+author: "Ericka Griggs"
+date: '2023-04-05'
+output: html_document
+---
+
+```{r}
+#Question 1
+
+count = 0
+x= c(2, 3, 12,0,5,19, 23, 64,0)
+
+for (i in 1:length(x)){
+  if (x[i] == 0) {
+    count = count + 1}}
+  
+
+print(count)
+
+```
+
+```{r}
+# 2
+z <- c(2, 0, 3, 12,0, 5, 19, 23, 64,0,0)
+zsub <- z[z ==0]
+length(zsub)
+
+```
+
+```{r}
+#3
+my_matrix <- function(x=2, y=3){ 
+m <- matrix(nrow = x,ncol = y)
+
+for (i in 1:x) {
+ for (j in 1:y) {
+  m[i,j] <- (i * j)
+ }
+}
+  return(m)
+} 
+
+my_matrix()
+
+```
+
+
