@@ -5,8 +5,9 @@ date: '2023-03-22'
 output: html_document
 ---
 
-# 1
+# 1 
 ```{r,warning=FALSE,message=FALSE}
+# I expect to see that the control mean being different than the treatments then the p value will be significant
 library(sqldf)
 library(dplyr)
 library(tidyverse)
@@ -15,8 +16,9 @@ data("PlantGrowth")
 z<-PlantGrowth
 ```
 
-# 2
+# 2 
 ```{r}
+#Data set for normal distribution
 ControlData <- filter(z,group=="ctrl")
 mean(ControlData$weight)
 sd(ControlData$weight)
@@ -31,8 +33,9 @@ sd(Treatment2$weight)
 
 ```
 
-# 3
+# 3 
 ```{r}
+#Random data set and data frame
 Ctrl <- rnorm(n=10, mean=5.032, sd
                      =0.58)
 
@@ -48,6 +51,7 @@ dff <- df %>% pivot_longer(cols=c('Ctrl', 'Trt1', 'Trt2'),names_to='Treatment',v
 
 # 4  
 ```{r}
+#Anova and graph
 original.aov <- aov(Weight ~ Treatment, data = dff)
 summary(original.aov)
 
@@ -56,15 +60,37 @@ ggplot(dff, aes(x = Treatment, y = Weight)) +
 
 ```
 
-
-# 6
+# 5 
 ```{r}
+#Same Parameters, different numbers
+Ctrl <- rnorm(n=10, mean=5.032, sd
+                     =0.58)
+
+Trt1 <- rnorm(n=10, mean=4.66, sd
+                     =0.79)
+Trt2 <- rnorm(n=10, mean=5.526, sd
+                     =0.44)
+df <- data.frame(Ctrl,Trt1,Trt2, stringsAsFactors = FALSE)
+
+dff <- df %>% pivot_longer(cols=c('Ctrl', 'Trt1', 'Trt2'),names_to='Treatment',values_to='Weight') 
+
+original.aov <- aov(Weight ~ Treatment, data = dff)
+summary(original.aov)
+
+ggplot(dff, aes(x = Treatment, y = Weight)) +
+  geom_boxplot()
+```
+
+
+# 6 
+```{r}
+#Adjusting Means
 Ctrl <- rnorm(n=10, mean=1.032, sd
               =0.58)
 
-Trt1 <- rnorm(n=10, mean=6.66, sd
+Trt1 <- rnorm(n=10, mean=1.66, sd
               =0.79)
-Trt2 <- rnorm(n=10, mean=5.526, sd
+Trt2 <- rnorm(n=10, mean=1.526, sd
               =0.44)
 df <- data.frame(Ctrl,Trt1,Trt2, stringsAsFactors = FALSE)
 
@@ -77,4 +103,4 @@ summary(aov2)
 ```
 
 # 7 & 8
-The way this dataset is set up it is always significant no matter what I change the sample sizes to. So instead I adjusted the means and raising the control mean changes the signifigance of the datasets. 
+The way this dataset is set up it is always significant no matter what I change the sample sizes to. So instead I adjusted the means and found that the only time the p value was not significant was when all the means are similar. 
