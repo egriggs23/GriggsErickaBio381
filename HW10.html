@@ -363,6 +363,22 @@ pre code {
 </div>
 
 
+<p>library</p>
+<pre class="r"><code>library(dplyr) </code></pre>
+<pre><code>## 
+## Attaching package: &#39;dplyr&#39;</code></pre>
+<pre><code>## The following objects are masked from &#39;package:stats&#39;:
+## 
+##     filter, lag</code></pre>
+<pre><code>## The following objects are masked from &#39;package:base&#39;:
+## 
+##     intersect, setdiff, setequal, union</code></pre>
+<pre class="r"><code>library(data.table) </code></pre>
+<pre><code>## 
+## Attaching package: &#39;data.table&#39;</code></pre>
+<pre><code>## The following objects are masked from &#39;package:dplyr&#39;:
+## 
+##     between, first, last</code></pre>
 <pre class="r"><code>#Question 1
 
 count = 0
@@ -396,7 +412,63 @@ my_matrix()</code></pre>
 <pre><code>##      [,1] [,2] [,3]
 ## [1,]    1    2    3
 ## [2,]    2    4    6</code></pre>
-<pre class="r"><code>#Question 4</code></pre>
+<p>#Question 4</p>
+<pre class="r"><code>#a
+trt_group &lt;- c(rep(&quot;Control&quot;,4),rep(&quot;Treatment&quot;,5), rep(&quot;Treatment 2&quot;, 20))
+print(trt_group)</code></pre>
+<pre><code>##  [1] &quot;Control&quot;     &quot;Control&quot;     &quot;Control&quot;     &quot;Control&quot;     &quot;Treatment&quot;  
+##  [6] &quot;Treatment&quot;   &quot;Treatment&quot;   &quot;Treatment&quot;   &quot;Treatment&quot;   &quot;Treatment 2&quot;
+## [11] &quot;Treatment 2&quot; &quot;Treatment 2&quot; &quot;Treatment 2&quot; &quot;Treatment 2&quot; &quot;Treatment 2&quot;
+## [16] &quot;Treatment 2&quot; &quot;Treatment 2&quot; &quot;Treatment 2&quot; &quot;Treatment 2&quot; &quot;Treatment 2&quot;
+## [21] &quot;Treatment 2&quot; &quot;Treatment 2&quot; &quot;Treatment 2&quot; &quot;Treatment 2&quot; &quot;Treatment 2&quot;
+## [26] &quot;Treatment 2&quot; &quot;Treatment 2&quot; &quot;Treatment 2&quot; &quot;Treatment 2&quot;</code></pre>
+<pre class="r"><code>z &lt;- c(runif(4) + 1, runif(5) + 10, runif(20)+4)
+print(z)</code></pre>
+<pre><code>##  [1]  1.776755  1.684400  1.894690  1.981588 10.409658 10.619357 10.618151
+##  [8] 10.193011 10.973902  4.947214  4.109684  4.730024  4.524121  4.759564
+## [15]  4.519042  4.030408  4.104592  4.268058  4.738895  4.802183  4.345942
+## [22]  4.349907  4.101433  4.678519  4.860114  4.710972  4.581168  4.292661
+## [29]  4.367031</code></pre>
+<pre class="r"><code>df &lt;- data.frame(trt=trt_group,res=z)
+print(df)</code></pre>
+<pre><code>##            trt       res
+## 1      Control  1.776755
+## 2      Control  1.684400
+## 3      Control  1.894690
+## 4      Control  1.981588
+## 5    Treatment 10.409658
+## 6    Treatment 10.619357
+## 7    Treatment 10.618151
+## 8    Treatment 10.193011
+## 9    Treatment 10.973902
+## 10 Treatment 2  4.947214
+## 11 Treatment 2  4.109684
+## 12 Treatment 2  4.730024
+## 13 Treatment 2  4.524121
+## 14 Treatment 2  4.759564
+## 15 Treatment 2  4.519042
+## 16 Treatment 2  4.030408
+## 17 Treatment 2  4.104592
+## 18 Treatment 2  4.268058
+## 19 Treatment 2  4.738895
+## 20 Treatment 2  4.802183
+## 21 Treatment 2  4.345942
+## 22 Treatment 2  4.349907
+## 23 Treatment 2  4.101433
+## 24 Treatment 2  4.678519
+## 25 Treatment 2  4.860114
+## 26 Treatment 2  4.710972
+## 27 Treatment 2  4.581168
+## 28 Treatment 2  4.292661
+## 29 Treatment 2  4.367031</code></pre>
+<pre class="r"><code>#b
+shuffled_df&lt;- data.frame(c1=df$trt, c2=sample(df$res))
+vector&lt;-aggregate(shuffled_df$c2, list(shuffled_df$c1), FUN=mean)
+print(vector)</code></pre>
+<pre><code>##       Group.1        x
+## 1     Control 5.548724
+## 2   Treatment 5.566065
+## 3 Treatment 2 4.997391</code></pre>
 
 
 

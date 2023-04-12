@@ -1,0 +1,68 @@
+"T #","Band #","State","Lake","Year Collected","Sex","Age","Blood Hg ppm","PLAS","LEUC","LEUC Count","Year of Death","APIC","...14"
+695,"1238-04721","ME","Portage Lake",2021,"M","ATY","<U+00A0>","N","Y",NA,NA,NA,NA
+692,"1238-24404","ME","Parker Pond",2021,"U","HY","<U+00A0>","N","N",NA,NA,NA,NA
+690,"1238-04723","ME","Portage Lake",2021,"M","ATY","<U+00A0>","N","N",NA,NA,NA,NA
+689,"1238-08853","ME","Crystal Lake",2021,"U","HY","<U+00A0>","N","N",NA,NA,NA,NA
+684,"1238-08897","ME","Crystal Lake",2021,"U","HY","<U+00A0>","N","N",NA,NA,NA,NA
+676,"1238-04715","ME","Flagstaff",2021,"F","ATY","<U+00A0>","N","Y",NA,NA,NA,NA
+672,"1238-04717","ME","Aziscohos",2021,"F","ATY","<U+00A0>","N","Y",NA,NA,NA,NA
+668,"1238-04725","ME","Portage Lake",2021,"F","ATY","<U+00A0>","Y","Y",NA,NA,NA,NA
+655,"0689-09412","ME","Mooselookmeguntic",2021,"F","ATY","<U+00A0>","N","N",NA,NA,NA,NA
+649,"0649-08894","ME","Thompson Lake",2021,"U","HY","<U+00A0>","N","N",NA,NA,NA,NA
+700,"0689-09450","ME","Thompson Lake",2021,"M","ATY","3.8","N","Y",NA,NA,NA,NA
+678,"1118-15974","ME","Rangeley",2021,"M","ATY","3.2","N","N",NA,NA,NA,NA
+635,"1238-04783","NH","Crystal Lake",2021,"M","ATY","3.1","Y","Y",NA,NA,NA,NA
+687,"0689-15625","ME","Kezar Lake",2021,"F","ATY","3.0","N","N",NA,NA,NA,NA
+686,"1038-60124","MA","Bickford Reservoir",2021,"F","ATY","2.5","N","Y",NA,NA,NA,NA
+632,"0689-15617","NH","CT Lake",2021,"M","ATY","2.3","N","Y",NA,NA,NA,NA
+719,"0669-21767","NY","Lake Colby",2021,"M","ATY","2.1","Y","N",NA,NA,NA,NA
+641,"1118-16102","NH","Lake Francis",2021,"F","ATY","1.9","Y","Y",NA,NA,NA,NA
+629,"1118-15223","NH","Sunapee Lake",2021,"M","ATY","1.9","N","N",NA,NA,NA,NA
+688,"0689-15629","ME","Jimmie Pond",2021,"F","ATY","1.8","Y","Y",NA,NA,NA,NA
+634,"1238-04776","NH","Mascoma Lake",2021,"F","ATY","1.7","N","Y",NA,NA,NA,NA
+628,"0689-15608","NH","Winnipesaukee",2021,"F","ATY","1.7","Y","Y",NA,NA,NA,NA
+669,"0689-15644","ME","Long Lake",2021,NA,"HY","1.6","N","Y",NA,NA,NA,NA
+647,"0938-44426","ME","Aziscohos",2021,"F","ATY","1.6","N","N",NA,NA,NA,NA
+666,"0689-09437","ME","Great Pond",2021,"M","ATY","1.5","Y","Y",NA,NA,NA,NA
+631,"0698-15618","NH","CT Lake",2021,"F","ATY","1.5","N","Y",NA,NA,NA,NA
+682,"0689-09448","ME","Thompson Lake",2021,"M","ATY","1.4","Y","N",NA,NA,NA,NA
+658,"0689-09422","ME","Great Pond",2021,"M","ATY","1.4","N","Y",NA,NA,NA,NA
+705,"0689-09439","ME","Great Pond",2021,"M","ATY","1.3","Y","Y",NA,NA,NA,NA
+636,"0689-15619","NH","Halfmoon Lake",2021,"F","ATY","1.3","N","Y",NA,NA,NA,NA
+637,"0689-15616","NH","Manning Lake",2021,"M","ATY","1.3","N","Y",NA,NA,NA,NA
+704,"1238-08875","MA","Whitehall Reservoir",2021,"F","ATY","1.2","Y","Y",NA,NA,NA,NA
+697,"0689-15638","ME","Long Pond",2021,"F","ATY","1.2","N","N",NA,NA,NA,NA
+663,"1238-08870","MA","Quabbin",2021,"F","ATY","1.2","N","N",NA,NA,NA,NA
+661,"1238-04714","ME","Aziscohos",2021,"M","ATY","1.2","N","Y",NA,NA,NA,NA
+630,"0689-15620","NH","Waukewan Lake",2021,"M","ATY","1.1","N","Y",NA,NA,NA,NA
+665,"0689-15630","ME","Long Pond",2021,"F","ATY","1.1","N","N",NA,NA,NA,NA
+657,"0689-09436","ME","Great Pond",2021,"U","HY","1.1","N","N",NA,NA,NA,NA
+625,"0689-15604","NH","Stone Pond",2021,"M","ATY","1.1","N","Y",NA,NA,NA,NA
+660,"1118-16231","ME","Indian Pond",2021,"F","ATY","1.0","N","N",NA,NA,NA,NA
+626,"1238-04790","NH","Ogontz Lake",2021,"M","ATY","1.0","N","Y",NA,NA,NA,NA
+696,"0689-15637","ME","Cushman Pond",2021,"M","ATY","0.9","Y","N",NA,NA,NA,NA
+674,"0689-09408","ME","Messalonskee",2021,"F","ATY","0.9","N","N",NA,NA,NA,NA
+699,"0689-09428","ME","Great Pond",2021,"F","ATY","0.8","N","N",NA,NA,NA,NA
+675,"0689-09426","ME","Great Pond",2021,"F","ATY","0.8","Y","Y",NA,NA,NA,NA
+664,"0689-15626","ME","Long Pond",2021,"M","ATY","0.7","N","Y",NA,NA,NA,NA
+659,"0689-15628","ME","Cushman Pond",2021,"F","ATY","0.7","N","Y",NA,NA,NA,NA
+646,"1238-04716","ME","Aziscohos",2021,"F","ATY","0.6","N","N",NA,NA,NA,NA
+701,"1238-08890","ME","Lake George",2021,"U","HY","0.5","N","N",NA,NA,NA,NA
+694,"0649-08883","ME","Mooselookmeguntic",2021,"U","ATY","0.4","N","N",NA,NA,NA,NA
+691,"0689-09447","ME","North Pond",2021,"U","HY","0.4","N","N",NA,NA,NA,NA
+648,"0689-15633","ME","Jimmie Pond",2021,"U","HY","0.4","N","N",NA,NA,NA,NA
+703,"0689-09420","ME","Webber Lake",2021,"U","HY","0.3","N","N",NA,NA,NA,NA
+693,"0689-09406","ME","Thompson Lake",2021,"U","HY","0.3","N","N",NA,NA,NA,NA
+627,"0689-15609","NH","Streeter Pond",2021,"F","ATY","0.3","N","N",NA,NA,NA,NA
+709,"0689-15631","ME","East Pond",2021,"U","HY","0.2","N","N",NA,NA,NA,NA
+707,"0689-15627","ME","Kezar Lake",2021,"U","HY","0.2","N","N",NA,NA,NA,NA
+685,"0689-15634","ME","Long Pond",2021,"U","HY","0.2","N","N",NA,NA,NA,NA
+681,"0689-15646","ME","Kezar Lake",2021,"U","HY","0.2","N","N",NA,NA,NA,NA
+656,"0689-09435","ME","Little Ossipee",2021,"U","HY","0.2","N","N",NA,NA,NA,NA
+653,"0689-09424","ME","Maranacook Lake",2021,"U","HY","0.2","N","N",NA,NA,NA,NA
+645,"0689-15635","MA","Whitehall Reservoir",2021,"U","HY","0.2","N","N",NA,NA,NA,NA
+715,"UNNY-21003","NY","Horseshoe Lake",2021,"U","HY","0.1","Y","N",NA,NA,NA,NA
+662,"1238-08869","ME","East Pond",2021,"U","HY","0.1","N","N",NA,NA,NA,NA
+654,"0689-09409","ME","Messalonskee",2021,"U","HY","0.1","N","N",NA,NA,NA,NA
+651,"1238-08854","ME","Messalonskee",2021,"U","HY","0.1","N","N",NA,NA,NA,NA
+650,"0649-08893","ME","Lake George",2021,"U","HY","0.1","N","N",NA,NA,NA,NA

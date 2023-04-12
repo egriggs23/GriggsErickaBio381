@@ -1,4 +1,5 @@
-
+library(dplyr) 
+library(data.table) 
 
 y <- function(vector=0) {count =0
   for (i in 1:length(x))
@@ -34,8 +35,18 @@ print(trt_group)
 z <- c(runif(4) + 1, runif(5) + 10, runif(20)+4)
 print(z)
 
-df <- data.frame(trt=trt_group,res=z)
-print(df)
+data <- data.frame(trt=trt_group,res=z)
+print(data)
 
-x <-df(group_by("trt"), summarise(across(everything(), mean)  
+#b
+
+  shuffle<- function(x){shuffled_data <-data.frame(c1=df$trt, c2=sample(df$res))
+  setDT(shuffled_data)
+  vector<-shuffled_data[ ,list(mean=mean(c2)), by=c1]
+  }
+  print(vector)
+
+
+
+
 

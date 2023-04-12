@@ -4,6 +4,12 @@ author: "Ericka Griggs"
 date: '2023-04-05'
 output: html_document
 ---
+library
+```{r}
+library(dplyr) 
+library(data.table) 
+```
+
 
 ```{r}
 #Question 1
@@ -44,8 +50,27 @@ for (i in 1:x) {
 my_matrix()
 
 ```
-```{r}
 #Question 4
+```{r}
+#a
+trt_group <- c(rep("Control",4),rep("Treatment",5), rep("Treatment 2", 20))
+print(trt_group)
+
+z <- c(runif(4) + 1, runif(5) + 10, runif(20)+4)
+print(z)
+
+df <- data.frame(trt=trt_group,res=z)
+print(df)
+
+#b
+shuffled_df<- data.frame(c1=df$trt, c2=sample(df$res))
+vector<-aggregate(shuffled_df$c2, list(shuffled_df$c1), FUN=mean)
+print(vector)
+
+#c
+
+
+
 ```
 
 
