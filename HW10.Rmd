@@ -5,9 +5,10 @@ date: '2023-04-05'
 output: html_document
 ---
 library
-```{r}
+```{r,warning=FALSE,message=FALSE}
 library(dplyr) 
 library(data.table) 
+library(ggplot2)
 ```
 
 
@@ -63,12 +64,41 @@ df <- data.frame(trt=trt_group,res=z)
 print(df)
 
 #b
+
 shuffled_df<- data.frame(c1=df$trt, c2=sample(df$res))
 vector<-aggregate(shuffled_df$c2, list(shuffled_df$c1), FUN=mean)
 print(vector)
+  
 
 #c
+    
+  newdataframe <- expand.grid(replicate=1:100,
+                              Control=NA,
+                              TRT1=NA,
+                              TRT2=NA
+                              )
 
+for(i in 1:100) {
+    x<-shuffled_df<- data.frame(c1=df$trt, c2=sample(df$res))
+    vector<-aggregate(shuffled_df$c2, list(shuffled_df$c1), FUN=mean)
+    
+    newdataframe[i,1] <-i
+    newdataframe[i,2] <- x[1,2] 
+    newdataframe[i,3] <- x[2,2] 
+    newdataframe[i,4] <- x[3,2]
+
+}
+print(newdataframe)
+ 
+#4
+
+qplot(Control, data = newdataframe, geom = "histogram")
+
+qplot(TRT1, data = newdataframe, geom = "histogram")
+
+qplot(TRT2, data = newdataframe, geom = "histogram")
+
+#BONUS
 
 
 ```
