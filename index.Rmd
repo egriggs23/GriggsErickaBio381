@@ -28,4 +28,5 @@ output: html_document
 
 [Homework #10](HW10.html)
 
-[Homework #12](HW12.html)
+[Homework #12](hw12.html)
+
