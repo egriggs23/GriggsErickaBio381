@@ -1,0 +1,593 @@
+T #,Band #,State,Lake  ,Year Collected,Sex,Age,Hg ,PLAS,LEUC
+655,0689-09412,ME,Mooselookmeguntic,2021,Female,ATY,,0,0
+149,0938-44812,MA,Hycrest Reservoir,2014,Female,ATY,6.4,0,0
+503,0689-09477,MA,"Copicut Reservoir, MA",2020,Female,ATY,5.4,0,0
+277,0669-21915,MA,Notown Lake,2015,Female,ATY,3.8,0,0
+543,0968-87783,ME,Beaver Pond,2020,Female,ATY,3.4,0,0
+526,1118-16294,ME,Flagstaff,2019,Female,ATY,3.3,0,0
+556,0689-09479,ME,Flagstaff,2020,Female,ATY,3.3,0,0
+1005,1058-00605,ME,Mooselookmeguntic,2012,Female,ATY,3.3,0,0
+687,0689-15625,ME,Kezar Lake,2021,Female,ATY,3,0,0
+1035,1118-16193,NH,Massabesic Lake,2014,Female,ATY,2.9,0,0
+50,0938-15317,ME,Watchic Lake,2010,Female,ATY,2.9,0,0
+555,1238-04764,ME,Parmachenee,2020,Female,ATY,2.9,0,0
+181,1118-15976,ME,Aziscohos,2014,Female,ATY,2.9,0,0
+518,1118-16246,ME,Richardson,2019,Female,ATY,2.8,0,0
+511,0689-09475,MA,Wachusett Reservoir,2020,Female,ATY,2.7,0,0
+535,0689-09434,ME,Flagstaff,2019,Female,ATY,2.6,0,0
+899,0938-53089,ME,Flagstaff ,2022,Female,ATY,2.6,0,0
+506,0689-09459,MA,Wachusett Reservoir,2020,Female,ATY,2.5,0,0
+74,1118-15911,MA,Quabbin,2011,Female,ATY,2.5,0,0
+912,0938-03351,ME,Indian Pond,2022,Female,ATY,2.5,0,0
+529,1118-16242,ME,Beaver Mountain,2019,Female,ATY,2.5,0,0
+6,0898-09880,NH,Pleasant Lake,2010,Female,ATY,2.4,0,0
+44,0898-09146,ME,Mooselookmeguntic,2010,Female,ATY,2.2,0,0
+859,1118-16158,NH,Iona Lake,2016,Female,ATY,2.2,0,0
+532,0689-09419,ME,Aziscohos,2019,Female,ATY,2.2,0,0
+244,0898-09854,NY,Chaumont Pond,2014,Female,ATY,2.2,0,0
+804,0938-15202,ME,Aziscohos,2013,Female,ATY,2.1,0,0
+803,0938-15145,ME,Aziscohos,2013,Female,ATY,2,0,0
+537,0689-09453,ME,Forest Lake,2019,Female,ATY,2,0,0
+32,0669-20564,ME,Little Sebago ,2010,Female,ATY,2,0,0
+812,1118-15992,ME,Somes Pond,2013,Female,ATY,2,0,0
+551,0689-09480,ME,Beaver Mountain,2020,Female,ATY,1.9,0,0
+837,1118-15272,NH,Swains Lake,2016,Female,ATY,1.9,0,0
+914,1238-08893,ME,Mooselookmeguntic,2022,Female,ATY,1.9,0,0
+521,0689-09401,ME,Notched Pond,2019,Female,ATY,1.9,0,0
+522,0689-09455,ME,Richardson,2019,Female,ATY,1.9,0,0
+548,0938-03351,ME,Flagstaff,2020,Female,ATY,1.8,0,0
+42,0938-26128,ME,Aziscohos,2010,Female,ATY,1.8,0,0
+1068,0968-87753,NY,Twitchell Lake,2016,Female,ATY,1.8,0,0
+114,0938-44874,ME,Kezar Lake ,2011,Female,ATY,1.8,0,0
+1057,0968-87773,NY,Twitchell Lake,2016,Female,ATY,1.77,0,0
+1033,1118-16186,NH,Pleasant Lake,2014,Female,ATY,1.8,0,0
+228,1118-16180,NH,Wikwas,2014,Female,ATY,1.8,0,0
+552,0689-09483,ME,Beaver Mountain,2020,Female,ATY,1.7,0,0
+501,0649-08884,MA,Quabbin,2019,Female,ATY,1.7,0,0
+279,1118-15964,MA,Wachusett Lake,2015,Female,ATY,1.7,0,0
+224,1118-16170,NH,Goose Pond,2014,Female,ATY,1.7,0,0
+2,0938-61755,NH,Northwood Lake,2010,Female,ATY,1.7,0,0
+508,0559-61760,MA,Wachusett Reservoir,2020,Female,ATY,1.7,0,0
+106,0898-09146,ME,Trout Pond ,2011,Female,ATY,1.6,0,0
+647,0938-44426,ME,Aziscohos,2021,Female,ATY,1.6,0,0
+525,0689-09452,ME,Rangeley Lake,2019,Female,ATY,1.6,0,0
+148,0938-44361,MA,Quabbin,2014,Female,ATY,1.6,0,0
+524,1118-16202,ME,Richardson,2019,Female,ATY,1.5,0,0
+523,0689-09463,ME,Richardson,2019,Female,ATY,1.5,0,0
+516,1118-16243,ME,Kennebago,2019,Female,ATY,1.5,0,0
+159,0669-55030,ME,Little Sebago ,2014,Female,ATY,1.5,0,0
+834,1118-15290,NH,Clark Pond,2016,Female,ATY,1.5,0,0
+898,1238-25626,ME,Richardson,2022,Female,ATY,1.4,0,0
+1062,0968-87759,NY,Little Green Pond,2016,Female,ATY,1.4,0,0
+502,0649-08891,MA,Quabbin,2019,Female,ATY,1.3,0,0
+161,0669-55045,ME,Little Sebago ,2014,Female,ATY,1.3,0,0
+697,0689-15638,ME,Long Pond,2021,Female,ATY,1.2,0,0
+663,1238-08870,MA,Quabbin,2021,Female,ATY,1.2,0,0
+841,1118-15275,NH,Winnipesaukee,2016,Female,ATY,1.2,0,0
+1016,1118-15935,ME,Little Sebago ,2012,Female,ATY,1.1,0,0
+848,1118-15297,NH,Squam Lake,2016,Female,ATY,1.1,0,0
+20,0669-21971,NH,Squam Lake,2010,Female,ATY,1.1,0,0
+665,0689-15630,ME,Long Pond,2021,Female,ATY,1.1,0,0
+311,1118-16190,NH,Purity Lake,2015,Female,ATY,1.1,0,0
+845,1118-15293,NH,Squam Lake,2016,Female,ATY,1,0,0
+814,0938-53083,ME,Arnold Pond,2016,Female,ATY,1,0,0
+157,0669-55025,ME,Middle Pond Kezar ,2014,Female,ATY,1,0,0
+660,1118-16231,ME,Indian Pond,2021,Female,ATY,1,0,0
+893,0689-15940,ME,Echo Lake ,2022,Female,ATY,1,0,0
+519,1118-15987,ME,Loon Lake,2019,Female,ATY,0.9,0,0
+901,1238-25628,ME,Long Lake,2022,Female,ATY,0.9,0,0
+553,0689-09476,ME,Little Sebago ,2020,Female,ATY,0.9,0,0
+160,0669-55040,ME,Long Pond ,2014,Female,ATY,0.9,0,0
+143,0669-21928,MA,Quabbin,2014,Female,ATY,0.9,0,0
+18,0898-09839,NH,Squam Lake,2010,Female,ATY,0.9,0,0
+674,0689-09408,ME,Messalonskee,2021,Female,ATY,0.9,0,0
+7,0669-21970,NH,Winnipesaukee,2010,Female,ATY,0.9,0,0
+83,0938-44494,ME,Thompson Lake,2011,Female,ATY,0.9,0,0
+857,1118-15242,NH,Kanasatka Lake,2016,Female,ATY,0.9,0,0
+863,1118-15219,NH,Nay Pond,2016,Female,ATY,0.8,0,0
+806,0898-05388,ME,Swan Lake,2013,Female,ATY,0.8,0,0
+699,0689-09428,ME,Great Pond,2021,Female,ATY,0.8,0,0
+920,0689-15933,ME,Great Pond,2022,Female,ATY,0.7,0,0
+895,0938-44496,ME,Little Sebago ,2022,Female,ATY,0.7,0,0
+855,0669-21988,NH,Little Squam Lake,2016,Female,ATY,0.6,0,0
+21,0669-21988,NH,Little Squam Lake,2010,Female,ATY,0.6,0,0
+646,1238-04716,ME,Aziscohos,2021,Female,ATY,0.6,0,0
+861,1118-15225,NH,Pontook Reservoir,2016,Female,ATY,0.6,0,0
+918,0938-15147,ME,Flagstaff,2022,Female,ATY,0.5,0,0
+810,0938-78858,ME,L.L. Bean Pond,2013,Female,ATY,0.3,0,0
+627,0689-15609,NH,Streeter Pond,2021,Female,ATY,0.3,0,0
+1055,1118-15227,NH,Providence Lake,2017,Female,ATY,,0,0
+1054,1118-15245,NH,,2017,Female,ATY,,0,0
+708,1278-57401,MA,Wachusett Reservoir,2021,Female,ATY,,0,0
+706,1238-08878,MA,Quabbin,2021,Female,ATY,,0,0
+640,1238-04741,NH,Red Hill Pond ,2020,Female,ATY,,0,0
+638,1238-04798,NH,Manning Lake,2020,Female,ATY,,0,0
+606,1118-16226,NY,Oliver Pond,2019,Female,ATY,,0,0
+602,0938-03416,NY,Lake Abanakee,2019,Female,ATY,,0,0
+498,1238-04726,NH,Winnipesaukee,2020,Female,ATY,,0,0
+489,1238-04774,NH,Conner Pond ,2020,Female,ATY,,0,0
+479,1118-16140,NH,Winnepocket Lake ,2020,Female,ATY,,0,0
+89,0938-06215,NH,Squam Lake,2011,Female,ATY,,0,0
+61,1118-15945,NH,Bear Camp Pond,2011,Female,ATY,,0,0
+690,1238-04723,ME,Portage Lake,2021,Male,ATY,,0,0
+536,0689-09451,ME,Sturtevant Pond,2019,Male,ATY,6.5,0,0
+1000,0669-55037,ME,Flagstaff,2012,Male,ATY,5.7,0,0
+153,0938-66647,MA,Hycrest Reservoir,2014,Male,ATY,5.4,0,0
+824,0938-53098,ME,Flagstaff,2016,Male,ATY,5,0,0
+48,0559-61794,ME,Aziscohos,2010,Male,ATY,5,0,0
+182,1118-15988,ME,Kezar Lake ,2014,Male,ATY,4.1,0,0
+38,0938-44702,ME,Flagstaff,2010,Male,ATY,3.8,0,0
+47,0938-44727,ME,Watchic Lake,2010,Male,ATY,3.7,0,0
+549,0689-09454,ME,Richardson,2020,Male,ATY,3.6,0,0
+1060,0649-08895,NY,Dry Channel Pond,2016,Male,ATY,3.48,0,0
+35,0938-06399,ME,Chain of Ponds,2010,Male,ATY,3.3,0,0
+817,0938-15105,ME,East Pond,2016,Male,ATY,3.2,0,0
+52,0938-44808,ME,Watchic Lake,2010,Male,ATY,3.2,0,0
+678,1118-15974,ME,Rangeley,2021,Male,ATY,3.2,0,0
+800,0649-08897,ME,Aziscohos,2013,Male,ATY,3.2,0,0
+562,1238-04759,ME,Richardson,2020,Male,ATY,3.2,0,0
+847,1118-15292,NH,Star Lake,2016,Male,ATY,3.2,0,0
+1013,0938-66614,ME,Indian Pond,2012,Male,ATY,3.1,0,0
+1007,1118-15934,ME,Little Sebago ,2012,Male,ATY,3,0,0
+3,0898-09819,NH,Swains Lake,2010,Male,ATY,3,0,0
+183,1118-15996,ME,Kezar Lake,2014,Male,ATY,3,0,0
+545,0689-09484,ME,Richardson,2020,Male,ATY,2.9,0,0
+563,1238-04762,ME,Parmachenee,2020,Male,ATY,2.8,0,0
+1063,0649-08826,NY,Garnet Lake,2016,Male,ATY,2.7,0,0
+49,0898-09143,ME,Aziscohos,2010,Male,ATY,2.6,0,0
+1006,1118-15915,ME,Pattee Pond,2012,Male,ATY,2.5,0,0
+561,1238-04703,ME,Aziscohos,2020,Male,ATY,2.5,0,0
+241,0649-08872,NY,Mason Lake,2014,Male,ATY,2.5,0,0
+538,1118-16300,ME,Somes Pond,2020,Male,ATY,2.5,0,0
+1015,0669-55024,ME,Mooselookmeguntic,2012,Male,ATY,2.4,0,0
+807,1118-15993,ME,Aziscohos,2013,Male,ATY,2.4,0,0
+179,1118-15963,ME,Beaver Mountain,2014,Male,ATY,2.4,0,0
+512,0689-09421,ME,Little Sebago,2019,Male,ATY,2.4,0,0
+1029,1118-16173,NH,Goose Pond,2014,Male,ATY,2.3,0,0
+217,0898-09819,NH,Swains Lake,2015,Male,ATY,2.3,0,0
+169,0938-26124,ME,Highland Lake,2014,Male,ATY,2.3,0,0
+37,0898-09977,ME,Gull Pond,2010,Male,ATY,2.2,0,0
+40,0669-21954,ME,Coffee Pond ,2010,Male,ATY,2.2,0,0
+39,0938-15197,ME,Coffee Pond,2010,Male,ATY,2.2,0,0
+110,0938-15114,ME,Trout Pond ,2011,Male,ATY,2.2,0,0
+505,0689-09473,MA,Quabbin,2020,Male,ATY,2.2,0,0
+540,1238-04761,ME,Aziscohos,2020,Male,ATY,2.2,0,0
+858,1118-15217,NH,Iona Lake,2016,Male,ATY,2.2,0,0
+528,0689-09414,ME,Raymond Pond,2019,Male,ATY,2.2,0,0
+245,0898-09864,NY,Upper St. Regis,2014,Male,ATY,2.1,0,0
+180,1118-15967,ME,Beaver Mountain,2014,Male,ATY,2.1,0,0
+11,0898-09818,NH,Squam Lake,2010,Male,ATY,2.1,0,0
+813,0938-15335,ME,Little Sebago,2016,Male,ATY,2.1,0,0
+531,0689-09416,ME,Mooselookmeguntic,2019,Male,ATY,2.1,0,0
+1028,1118-16172,NH,Massabesic Lake,2014,Male,ATY,2,0,0
+150,0938-61737,MA,Quabbin,2014,Male,ATY,2,0,0
+850,1118-15274,NH,Winnipesaukee,2016,Male,ATY,2,0,0
+4,0669-21969,NH,Squam Lake,2010,Male,ATY,2,0,0
+146,0938-44355,MA,Quabbin,2014,Male,ATY,1.9,0,0
+145,0669-55046,MA,Crystal,2014,Male,ATY,1.9,0,0
+544,1238-04763,ME,Sandy River,2020,Male,ATY,1.9,0,0
+629,1118-15223,NH,Sunapee Lake,2021,Male,ATY,1.9,0,0
+507,0938-03451,MA,Wachusett Reservoir,2020,Male,ATY,1.9,0,0
+147,0938-44359,MA,Quabbin,2014,Male,ATY,1.8,0,0
+13,0669-21976,NH,Squam Lake,2010,Male,ATY,1.8,0,0
+177,0938-78865,ME,Little Sebago ,2014,Male,ATY,1.8,0,0
+30,0938-03410,ME,Loon Lake,2010,Male,ATY,1.8,0,0
+862,1118-15222,NH,Pontook Reservoir,2016,Male,ATY,1.7,0,0
+227,1118-16177,NH,Ossipee,2014,Male,ATY,1.7,0,0
+917,1238-08887,ME,Mooselookmeguntic,2022,Male,ATY,1.6,0,0
+913,0689-15937,ME,Aziscohos,2022,Male,ATY,1.5,0,0
+818,0938-78856,ME,East Richardson,2016,Male,ATY,1.5,0,0
+805,1118-15990,ME,Swan Lake,2013,Male,ATY,1.5,0,0
+915,0938-03458,ME,Aziscohos,2022,Male,ATY,1.4,0,0
+1014,0938-15125,ME,Big Jim,2012,Male,ATY,1.4,0,0
+894,1238-08891,ME,Echo Lake ,2022,Male,ATY,1.4,0,0
+849,1118-15268,NH,Winnipesaukee,2016,Male,ATY,1.3,0,0
+1069,0938-61800,NY,Clear Pond,2016,Male,ATY,1.3,0,0
+840,1118-15224,NH,Winnipesaukee,2016,Male,ATY,1.3,0,0
+156,0669-21938,ME,Long Pond ,2014,Male,ATY,1.3,0,0
+541,1238-04704,ME,Little Sebago,2020,Male,ATY,1.3,0,0
+854,1118-15299,NH,Little Squam Lake,2016,Male,ATY,1.3,0,0
+56,0938-15212,ME,Echo Lake ,2010,Male,ATY,1.3,0,0
+900,1238-24438,ME,Long Lake,2022,Male,ATY,1.2,0,0
+833,1118-15271,NH,Nippo Pond,2016,Male,ATY,1.2,0,0
+29,0938-26160,ME,Saddleback Lake,2010,Male,ATY,1.2,0,0
+910,0689-15902,ME,Great Pond ,2022,Male,ATY,1.2,0,0
+896,0938-44485,ME,Little Jim ,2022,Male,ATY,1.1,0,0
+19,0669-21984,NH,Winnipesaukee,2010,Male,ATY,1,0,0
+45,0938-44411,ME,Haley Pond,2010,Male,ATY,1,0,0
+9,0669-21973,NH,Winnipesaukee,2010,Male,ATY,1,0,0
+808,0938-66656,ME,Little Sebago,2013,Male,ATY,0.9,0,0
+843,1118-15280,NH,Conner Pond,2016,Male,ATY,0.8,0,0
+864,1118-15223,NH,"Sunapee Lake, Little",2016,Male,ATY,0.8,0,0
+922,0649-08886,ME,Indian Pond,2022,Male,ATY,0.3,0,0
+1071,0938-66647,MA,Hycrest Reservoir,2014,Male,ATY,,0,0
+1047,1118-15214,ME,Rangeley Lake,2015,Male,ATY,,0,0
+1045,0938-15120,ME,Big Jim,2015,Male,ATY,,0,0
+720,0938-61779,NY,Upper St. Regis,2021,Male,ATY,,0,0
+670,1238-08879,MA,Whitehall Reservoir,2021,Male,ATY,,0,0
+619,0938-78814,NY,Lake Rondaxe,2020,Male,ATY,,0,0
+600,0938-44889,NY,Piercefield Flow,2019,Male,ATY,,0,0
+499,1238-04747,NH,Ossipee,2020,Male,ATY,,0,0
+494,1238-04788,NH,Paugus Bay ,2020,Male,ATY,,0,0
+491,1118-16121,NH,Akers Pond ,2020,Male,ATY,,0,0
+487,1238-04782,NH,Island Pond ,2020,Male,ATY,,0,0
+71,1118-15903,NH,Hawkins Ponds,2011,Male,ATY,,0,0
+60,1118-15905,NH,Winnipesaukee,2011,Male,ATY,,0,0
+692,1238-24404,ME,Parker Pond,2021,Hatch Year,HY,,0,0
+689,1238-08853,ME,Crystal Lake,2021,Hatch Year,HY,,0,0
+684,1238-08897,ME,Crystal Lake,2021,Hatch Year,HY,,0,0
+649,0649-08894,ME,Thompson Lake,2021,Hatch Year,HY,,0,0
+886,0689-15906,NH,Highland Lake,2022,Hatch Year,HY,2.1,0,0
+657,0689-09436,ME,Great Pond,2021,Hatch Year,HY,1.1,0,0
+924,1238-24419,ME,Horseshoe Pond,2022,Hatch Year,HY,1,0,0
+329,UnNY-15003,NY,North Lake,2015,Hatch Year,HY,0.7,0,0
+328,UnNY-15004,NY,North Lake,2015,Hatch Year,HY,0.7,0,0
+889,0649-08885,NH,Massabesic Lake,2022,Hatch Year,HY,0.7,0,0
+701,1238-08890,ME,Lake George,2021,Hatch Year,HY,0.5,0,0
+517,1118-16206,ME,Beaver Pond,2019,Hatch Year,HY,0.4,0,0
+261,UnNY-14009,NY,Putnam Pond,2014,Hatch Year,HY,0.4,0,0
+691,0689-09447,ME,North Pond,2021,Hatch Year,HY,0.4,0,0
+648,0689-15633,ME,Jimmie Pond,2021,Hatch Year,HY,0.4,0,0
+54,0938-06393,ME,Kezar Lake ,2010,Hatch Year,HY,0.4,0,0
+694,0649-08883,ME,Mooselookmeguntic,2021,Hatch Year,ATY,0.4,0,0
+265,UnNY-14013,NY,Mason Lake,2014,Hatch Year,HY,0.3,0,0
+500,1118-16250,MA,"Hy-Crest Pond, MA",2019,Hatch Year,HY,0.3,0,0
+888,UnNH-22002,NH,Little Island Pond,2022,Hatch Year,HY,0.3,0,0
+703,0689-09420,ME,Webber Lake,2021,Hatch Year,HY,0.3,0,0
+693,0689-09406,ME,Thompson Lake,2021,Hatch Year,HY,0.3,0,0
+1008,1118-15921,ME,Somes Pond,2012,Hatch Year,HY,0.3,0,0
+256,UnNY-14002,NY,Long Pond,2014,Hatch Year,HY,0.2,0,0
+257,UnNY-14003,NY,Long Pond,2014,Hatch Year,HY,0.2,0,0
+1059,UnNY-16005,NY,Twitchell Lake,2016,Hatch Year,HY,0.2,0,0
+709,0689-15631,ME,East Pond,2021,Hatch Year,HY,0.2,0,0
+707,0689-15627,ME,Kezar Lake,2021,Hatch Year,HY,0.2,0,0
+685,0689-15634,ME,Long Pond,2021,Hatch Year,HY,0.2,0,0
+681,0689-15646,ME,Kezar Lake,2021,Hatch Year,HY,0.2,0,0
+656,0689-09435,ME,Little Ossipee,2021,Hatch Year,HY,0.2,0,0
+653,0689-09424,ME,Maranacook Lake,2021,Hatch Year,HY,0.2,0,0
+645,0689-15635,MA,Whitehall Reservoir,2021,Hatch Year,HY,0.2,0,0
+887,UnNH-22001,NH,Little Island Pond,2022,Hatch Year,HY,0.2,0,0
+1067,UnNY-16003,NY,Garnet Lake,2016,Hatch Year,HY,0.18,0,0
+510,0689-09471,MA,Wachusett Reservoir,2020,Hatch Year,HY,0.2,0,0
+111,0669-20575,ME,Kezar Lake ,2011,Hatch Year,HY,0.2,0,0
+509,0689-09462,MA,Wachusett Reservoir,2020,Hatch Year,HY,0.2,0,0
+107,0938-44702,ME,Kezar Lake ,2011,Hatch Year,HY,0.2,0,0
+809,0938-78857,ME,Great Pond ,2013,Hatch Year,HY,0.1,0,0
+262,UnNY-14010,NY,Garnet Lake,2014,Hatch Year,HY,0.1,0,0
+662,1238-08869,ME,East Pond,2021,Hatch Year,HY,0.1,0,0
+654,0689-09409,ME,Messalonskee,2021,Hatch Year,HY,0.1,0,0
+651,1238-08854,ME,Messalonskee,2021,Hatch Year,HY,0.1,0,0
+650,0649-08893,ME,Lake George,2021,Hatch Year,HY,0.1,0,0
+325,UnNY-15001,NY,Little Moose Lake,2015,Hatch Year,HY,0.1,0,0
+1065,UnNY-16004,NY,Oliver Pond,2016,Hatch Year,HY,0.09,0,0
+326,UnNY-15002,NY,Little Moose Lake,2015,Hatch Year,HY,0.1,0,0
+725,1118-16223,NY,Bear Pond,2021,Hatch Year,HY,,0,0
+718,UNNY-21002,NY,South Lake,2021,Hatch Year,HY,,0,0
+714,1118-16217,NY,Lake Colby,2021,Hatch Year,HY,,0,0
+712,1118-16229,NY,Jabe Pond,2021,Hatch Year,HY,,0,0
+618,UNNY-20002,NY,Chaumont Pond,2020,Hatch Year,HY,,0,0
+614,UNNY-20004,NY,Gray Lake,2020,Hatch Year,HY,,0,0
+607,UNNY-19007,NY,Little Green Pond,2019,Hatch Year,HY,,0,0
+597,UNNY-19008,NY,Little Green Pond,2019,Hatch Year,HY,,0,0
+464,1238-04739,NH,Lovell Lake ,2019,Hatch Year,HY,,0,0
+676,1238-04715,ME,Flagstaff,2021,Female,ATY,,0,1
+672,1238-04717,ME,Aziscohos,2021,Female,ATY,,0,1
+174,0938-66659,ME,Sebago Lake,2014,Female,ATY,3.9,0,1
+530,0689-09413,ME,Flagstaff,2019,Female,ATY,2.8,0,1
+96,0938-06415,ME,Long Pond ,2011,Female,ATY,2.7,0,1
+175,0938-78855,ME,Chain of Ponds,2014,Female,ATY,2.6,0,1
+1061,0968-87770,NY,Limekiln Lake,2016,Female,ATY,2.53,0,1
+686,1038-60124,MA,Bickford Reservoir,2021,Female,ATY,2.5,0,1
+815,0938-53095,ME,Aziscohos,2016,Female,ATY,2.5,0,1
+1021,0649-08834,NH,Bear Brook Pond,2014,Female,ATY,2.3,0,1
+322,1118-15252,NH,Grafton Pond,2015,Female,ATY,2.3,0,1
+33,0938-06392,ME,Highland Lake,2010,Female,ATY,2.3,0,1
+897,1238-24415,ME,Aziscohos,2022,Female,ATY,2.2,0,1
+1009,1058-00603,ME,Aziscohos,2012,Female,ATY,2.1,0,1
+1003,0938-66609,ME,Flagstaff,2012,Female,ATY,2.1,0,1
+126,0938-78809,NY,Big Moose Lake,2011,Female,ATY,2.1,0,1
+320,1118-16184,NH,Winnipesaukee,2015,Female,ATY,2,0,1
+1,0669-21989,NH,Swains Lake,2010,Female,ATY,1.9,0,1
+634,1238-04776,NH,Mascoma Lake,2021,Female,ATY,1.7,0,1
+891,1238-25630,ME,Little Sebago ,2022,Female,ATY,1.7,0,1
+1070,0968-87760,NY,Upper Saranac Lake,2016,Female,ATY,1.63,0,1
+1018,1058-00602,ME,Mooselookmeguntic,2012,Female,ATY,1.6,0,1
+1020,0559-61768,NH,Massabesic Lake,2014,Female,ATY,1.6,0,1
+826,1118-15980,ME,Richardson,2016,Female,ATY,1.6,0,1
+919,0689-15904,ME,Mooselookmeguntic,2022,Female,ATY,1.6,0,1
+1024,0938-03432,NH,Winnipesaukee,2014,Female,ATY,1.5,0,1
+1031,1118-16182,NH,Bow Lake,2014,Female,ATY,1.5,0,1
+631,0698-15618,NH,CT Lake,2021,Female,ATY,1.5,0,1
+1036,1118-16194,NH,Bow Lake,2014,Female,ATY,1.4,0,1
+1001,1118-15916,ME,Unity Pond,2012,Female,ATY,1.4,0,1
+315,1118-15256,NH,Squam Lake,2015,Female,ATY,1.4,0,1
+801,1118-15987,ME,Middle Range Pond,2013,Female,ATY,1.4,0,1
+348,1118-15255,NH,Winnipesaukee,2015,Female,ATY,1.4,0,1
+825,0938-53077,ME,Richardson,2016,Female,ATY,1.3,0,1
+84,0669-21953,ME,Eagle Lake,2011,Female,ATY,1.3,0,1
+154,0938-78852,MA,Crystal,2014,Female,ATY,1.3,0,1
+853,1118-15287,NH,Squam Lake,2016,Female,ATY,1.3,0,1
+636,0689-15619,NH,Halfmoon Lake,2021,Female,ATY,1.3,0,1
+870,1038-60123,ME,Rangeley,2017,Female,ATY,1.3,0,1
+17,0669-21996,NH,Winnipesaukee,2010,Female,ATY,1.3,0,1
+867,1118-16182,NH,Bow Lake,2016,Female,ATY,1.2,0,1
+152,0938-61746,MA,Quabbin,2014,Female,ATY,1.2,0,1
+10,0669-21998,NH,Squam Lake,2010,Female,ATY,1.2,0,1
+816,0938-53094,ME,Aziscohos,2016,Female,ATY,1.2,0,1
+856,1118-15988,ME,Big Jim Pond,2016,Female,ATY,1.2,0,1
+916,0669-55026,ME,Mooselookmeguntic,2022,Female,ATY,1.1,0,1
+554,0689-09482,ME,Little Sebago,2020,Female,ATY,1.1,0,1
+911,0689-15946,ME,Long Pond ,2022,Female,ATY,1.1,0,1
+1010,0669-55039,ME,Indian Pond,2012,Female,ATY,1.1,0,1
+835,1118-15277,NH,Nippo Pond,2016,Female,ATY,1,0,1
+802,1118-15994,ME,Raymond Pond,2013,Female,ATY,1,0,1
+176,0938-78856,ME,Haley Pond,2014,Female,ATY,0.9,0,1
+890,1038-60138,ME,Echo Lake ,2022,Female,ATY,0.8,0,1
+120,0898-09133,NY,Little Moose Lake,2011,Female,ATY,0.8,0,1
+852,1118-15291,NH,Waukewan Lake,2016,Female,ATY,0.7,0,1
+659,0689-15628,ME,Cushman Pond,2021,Female,ATY,0.7,0,1
+902,0689-15948,ME,Black Lake,2022,Female,ATY,0.6,0,1
+880,0649-08890,NH,Highland Lake,2022,Female,ATY,0.5,0,1
+921,1238-24447,ME,Great Pond,2022,Female,ATY,0.5,0,1
+866,1118-15265,NH,Willard Pond,2016,Female,ATY,0.4,0,1
+125,0938-78816,NY,South Lake,2011,Female,ATY,0.3,0,1
+885,1238-25629,NH,Little Island Pond,2022,Female,ATY,0.2,0,1
+1074,0938-78852,MA,Crystal Lake,2021,Female,ATY,,0,1
+1048,1118-15246,ME,Mooselookmeguntic,2015,Female,ATY,,0,1
+723,1118-16215,NY,Honnedaga Lake,2021,Female,ATY,,0,1
+722,0938-78812,NY,Jabe Pond,2021,Female,ATY,,0,1
+713,1118-16221,NY,Bear Pond,2021,Female,ATY,,0,1
+617,0968-87761,NY,Hitchins Pond,2020,Female,ATY,,0,1
+613,0968-87780,NY,Francis Lake,2020,Female,ATY,,0,1
+610,0968-87776,NY,South Pond,2020,Female,ATY,,0,1
+608,1078-62771,NY,Big Moose Lake,2020,Female,ATY,,0,1
+605,1118-16228,NY,Little Green Pond,2019,Female,ATY,,0,1
+598,0968-87757,NY,Canada Lake,2019,Female,ATY,,0,1
+495,1238-04738,NH,Paugus Bay ,2020,Female,ATY,,0,1
+493,12383-04799,NH,Winnipesaukee,2020,Female,ATY,,0,1
+484,1238-04794,NH,Lake Francis ,2020,Female,ATY,,0,1
+454,1238-04749,NH,White Pond ,2019,Female,ATY,,0,1
+453,1118-15245,NH,Tuftonboro ,2019,Female,ATY,,0,1
+448,1238-04734,NH,First Connecticut Lake ,2019,Female,ATY,,0,1
+445,1118-16190,NH,Purity Lake ,2019,Female,ATY,,0,1
+443,0669-21988,NH,Little Squam Lake,2019,Female,ATY,,0,1
+442,1118-16134,NH,Lake Sunapee ,2019,Female,ATY,,0,1
+440,1118-16144,NH,White Lake,2019,Female,ATY,,0,1
+439,1238-04743,NH,Rochester,2019,Female,ATY,,0,1
+94,1118-15907,NH,Squam Lake,2011,Female,ATY,,0,1
+91,0938-44726,NH,Squam Lake,2011,Female,ATY,,0,1
+72,0898-09839,NH,Squam Lake,2011,Female,ATY,,0,1
+68,0669-21998,NH,Squam Lake,2011,Female,ATY,,0,1
+57,0938-44726,NH,Squam Lake,2011,Female,ATY,,0,1
+695,1238-04721,ME,Portage Lake,2021,Male,ATY,,0,1
+504,1118-15977,MA,"Copicut Reservoir, MA",2020,Male,ATY,5.4,0,1
+247,0938-61770,NY,Cranberry Lake,2014,Male,ATY,4.7,0,1
+564,0689-09418,ME,Aziscohos,2020,Male,ATY,4.5,0,1
+700,0689-09450,ME,Thompson Lake,2021,Male,ATY,3.8,0,1
+88,0938-44808,ME,Long Pond ,2011,Male,ATY,3.7,0,1
+846,1118-15295,NH,Sunapee Lake,2016,Male,ATY,3.5,0,1
+250,0938-61785,NY,Hitchins Pond,2014,Male,ATY,3.4,0,1
+828,0938-53079,ME,Long Pond,2016,Male,ATY,3.3,0,1
+122,0938-78820,NY,South Lake,2011,Male,ATY,3.3,0,1
+36,0938-03407,ME,Mooselookmeguntic,2010,Male,ATY,3.3,0,1
+829,0938-53087,ME,Long Pond,2016,Male,ATY,3.3,0,1
+1034,1118-16192,NH,Pleasant Lake,2014,Male,ATY,3.2,0,1
+8,0938-15333,NH,Northwood Lake,2010,Male,ATY,3.2,0,1
+127,0938-78810,NY,Big Moose Lake,2011,Male,ATY,3.1,0,1
+251,0938-61788,NY,Chaumont Pond,2014,Male,ATY,3.1,0,1
+1064,0649-08808,NY,Lower Saranac Lake,2016,Male,ATY,3.05,0,1
+821,0649-08833,ME,Flagstaff,2016,Male,ATY,2.9,0,1
+31,0938-26131,ME,Rangeley,2010,Male,ATY,2.9,0,1
+831,1118-15987,ME,Crescent Lake,2016,Male,ATY,2.7,0,1
+868,1118-15294,NH,Northwood Lake,2016,Male,ATY,2.6,0,1
+172,0938-66624,ME,Mooselookmeguntic,2014,Male,ATY,2.6,0,1
+1058,0649-08825,NY,Limekiln Lake,2016,Male,ATY,2.51,0,1
+1012,1118-15952,ME,Mooselookmeguntic,2012,Male,ATY,2.5,0,1
+1037,1118-16195,NH,"Pea Porridge, Middle",2014,Male,ATY,2.4,0,1
+632,0689-15617,NH,CT Lake,2021,Male,ATY,2.3,0,1
+346,0938-15288,NH,Winnipesaukee,2014,Male,ATY,2.3,0,1
+1023,0898-10001,NH,Bear Brook Pond,2014,Male,ATY,2.2,0,1
+128,0938-78825,NY,Round Lake,2011,Male,ATY,2.2,0,1
+248,0938-61776,NY,Putnam Pond,2014,Male,ATY,2.2,0,1
+884,1238-25627,NH,Little Island Pond,2022,Male,ATY,2.2,0,1
+22,0559-61876,NH,Winnipesaukee,2010,Male,ATY,2.2,0,1
+1011,0938-78801,ME,Rangeley Lake,2012,Male,ATY,2.1,0,1
+53,0938-44896,ME,Notched Pond,2010,Male,ATY,2.1,0,1
+883,0689-15908,NH,Massabesic Lake,2022,Male,ATY,2,0,1
+907,1238-24450,ME,Sebago Lake ,2022,Male,ATY,2,0,1
+316,0938-44710,NH,Squam Lake,2015,Male,ATY,2,0,1
+1026,1118-16159,NH,Winnipesaukee,2014,Male,ATY,1.9,0,1
+1002,0938-78861,ME,Aziscohos,2012,Male,ATY,1.9,0,1
+51,0938-15277,ME,Little Sebago,2010,Male,ATY,1.8,0,1
+820,1118-15971,ME,Mooselookmeguntic,2016,Male,ATY,1.7,0,1
+822,0649-08897,ME,Flagstaff ,2016,Male,ATY,1.7,0,1
+904,0689-15903,ME,Eagle Lake,2022,Male,ATY,1.7,0,1
+1030,1118-16181,NH,Bow Lake,2014,Male,ATY,1.6,0,1
+547,0689-09499,ME,Richardson,2020,Male,ATY,1.6,0,1
+865,1118-15300,NH,Cold Spring Pond,2016,Male,ATY,1.4,0,1
+249,0938-61779,NY,Upper St. Regis,2014,Male,ATY,1.4,0,1
+658,0689-09422,ME,Great Pond,2021,Male,ATY,1.4,0,1
+28,0938-66611,ME,Saddleback Lake,2010,Male,ATY,1.4,0,1
+34,0938-06455,ME,Chain of Ponds,2010,Male,ATY,1.4,0,1
+539,0669-21938,ME,Raymond Pond,2020,Male,ATY,1.4,0,1
+24,0938-03438,NH,Winnipesaukee,2010,Male,ATY,1.3,0,1
+823,1118-15273,NH,Clark Pond,2016,Male,ATY,1.3,0,1
+637,0689-15616,NH,Manning Lake,2021,Male,ATY,1.3,0,1
+246,0898-09868,NY,Little Clear Pond,2014,Male,ATY,1.2,0,1
+661,1238-04714,ME,Aziscohos,2021,Male,ATY,1.2,0,1
+851,1118-15281,NH,White Oak Pond,2016,Male,ATY,1.2,0,1
+630,0689-15620,NH,Waukewan Lake,2021,Male,ATY,1.1,0,1
+625,0689-15604,NH,Stone Pond,2021,Male,ATY,1.1,0,1
+184,1118-15999,ME,Kezar Lake,2014,Male,ATY,1.1,0,1
+838,1118-15276,NH,Willard Pond,2016,Male,ATY,1.1,0,1
+242,0649-08874,NY,Little Clear,2014,Male,ATY,1,0,1
+105,0938-44746,ME,Pleasant Lake ,2011,Male,ATY,1,0,1
+626,1238-04790,NH,Ogontz Lake,2021,Male,ATY,1,0,1
+313,1118-16189,NH,Adder Pond,2015,Male,ATY,0.9,0,1
+906,1238-24446,ME,Portage Lake,2022,Male,ATY,0.9,0,1
+321,1118-16196,NH,Winnipesaukee,2015,Male,ATY,0.8,0,1
+327,0938-61783,NY,Little Moose Lake,2015,Male,ATY,0.7,0,1
+664,0689-15626,ME,Long Pond,2021,Male,ATY,0.7,0,1
+819,0938-66609,ME,Saddleback,2016,Male,ATY,0.5,0,1
+167,0938-15353,ME,Kezar Lake,2014,Male,ATY,0.5,0,1
+168,0938-26029,ME,East Pond,2014,Male,ATY,0.4,0,1
+240,0649-08826,NY,Garnet Lake,2014,Male,ATY,0.3,0,1
+119,0938-78814,NY,Rondayelk Lake,2011,Male,ATY,0.3,0,1
+104,0938-44751,ME,Tea Pond ,2011,Male,ATY,0.3,0,1
+173,0938-66658,ME,Mooselookmeguntic,2014,Male,ATY,0.2,0,1
+923,1238-24421,ME,Great Pond,2022,Male,ATY,0.2,0,1
+925,0689-15928,ME,Great Pond,2022,Male,ATY,0.2,0,1
+170,0938-26125,ME,Long Lake,2014,Male,ATY,0.2,0,1
+881,0689-15901,NH,Highland Lake,2022,Male,ATY,0.1,0,1
+550,0689-09481,ME,Aziscohos,2020,Male,ATY,0.1,0,1
+1056,1118-15240,NH,Providence Lake,2017,Male,ATY,,0,1
+1053,0938-15335,ME,Sturtevant Pond,2015,Male,ATY,,0,1
+1050,0938-06388,ME,Mooselookmeguntic,2015,Male,ATY,,0,1
+1042,1118-15229,ME,Richardson,2015,Male,ATY,,0,1
+1040,0669-55047,ME,Little Sebago ,2015,Male,ATY,,0,1
+724,1118-16214,NY,Honnedaga Lake,2021,Male,ATY,,0,1
+683,0898-09109,MA,Wachusett Reservoir,2021,Male,ATY,,0,1
+642,1238-04727,NH,Balch Pond,2020,Male,ATY,,0,1
+639,1238-04781,NH,Red Hill Pond ,2020,Male,ATY,,0,1
+609,1118-16218,NY,South Pond,2020,Male,ATY,,0,1
+604,1118-16220,NY,Canada Lake,2019,Male,ATY,,0,1
+603,0938-61773,NY,Canada Lake,2019,Male,ATY,,0,1
+601,0669-21783,NY,Oliver Pond,2019,Male,ATY,,0,1
+497,1118-15273,NH,Clark Pond ,2020,Male,ATY,,0,1
+492,1238-04780,NH,Pontook Reservoir ,2020,Male,ATY,,0,1
+490,1238-04787,NH,CT Lake ,2020,Male,ATY,,0,1
+488,1238-04791,NH,Silver Lake ,2020,Male,ATY,,0,1
+485,1238-04793,NH,Highland Lake ,2020,Male,ATY,,0,1
+482,1118-16195,NH,Big Pea Porridge Pond ,2020,Male,ATY,,0,1
+465,1238-04729,NH,Eastman Pond ,2019,Male,ATY,,0,1
+461,1238-04750,NH,Lake Kanasatka ,2019,Male,ATY,,0,1
+460,1238-04730,NH,Spectacle Pond ,2019,Male,ATY,,0,1
+456,1238-04736,NH,Winnipesaukee,2019,Male,ATY,,0,1
+455,1118-16137,NH,Tarleton Lake ,2019,Male,ATY,,0,1
+450,1118-16130,NH,First Connecticut Lake ,2019,Male,ATY,,0,1
+447,1118-16139,NH,Bearcamp Pond ,2019,Male,ATY,,0,1
+446,0938-78739,NH,Purity Lake ,2019,Male,ATY,,0,1
+441,1118-16124,NH,Lake Sunapee ,2019,Male,ATY,,0,1
+438,1238-04745,NH,White Pond,2019,Male,ATY,,0,1
+93,1118-15906,NH,Squam Lake,2011,Male,ATY,,0,1
+92,0669-21976,NH,Squam Lake,2011,Male,ATY,,0,1
+86,1118-15902,NH,Squam Lake,2011,Male,ATY,,0,1
+77,1118-15901,NH,Winnipesaukee,2011,Male,ATY,,0,1
+70,1118-15901,NH,Winnipesaukee,2011,Male,ATY,,0,1
+67,0898-09936,NH,Squam Lake,2011,Male,ATY,,0,1
+65,1118-15902,NH,Squam Lake,2011,Male,ATY,,0,1
+62,1118-15947,NH,Bear Camp Pond,2011,Male,ATY,,0,1
+58,0669-21976,NH,Squam Lake,2011,Male,ATY,,0,1
+264,UnNY-14012,NY,Hitchins Pond,2014,Hatch Year,HY,0.4,0,1
+871,0938-03351,ME,Kezar Lake ,2017,Hatch Year,HY,0.3,0,1
+860,1118-15237,NH,East Inlet,2016,Hatch Year,HY,0.2,0,1
+164,0938-06438,ME,Kezar Lake ,2014,Hatch Year,HY,0.2,0,1
+171,0938-44727,ME,Saddleback,2014,Hatch Year,HY,0.2,0,1
+263,UnNY-14011,NY,Garnet Lake,2014,Hatch Year,HY,0.2,0,1
+260,UnNY-14006,NY,Upper St. Regis,2014,Hatch Year,HY,0.1,0,1
+909,1118-15971,ME,Silver Lake ,2022,Hatch Year,HY,0.1,0,1
+158,0669-55026,ME,Little Sebago ,2014,Hatch Year,HY,0.1,0,1
+259,UnNY-14005,NY,Little Clear Pond,2014,Hatch Year,HY,0.1,0,1
+258,UnNY-14004,NY,Little Clear Pond,2014,Hatch Year,HY,0.1,0,1
+255,UnNY-14001,NY,Piercefield Flow Pond,2014,Hatch Year,HY,0.1,0,1
+1052,UnME-15004,ME,Sturtevant Pond,2015,Hatch Year,HY,,0,1
+1051,UnME-15003,ME,Mooselookmeguntic,2015,Hatch Year,HY,,0,1
+721,1058-00635,NY,Upper St. Regis,2021,Hatch Year,HY,,0,1
+717,1058-00683,NY,Arbutus,2021,Hatch Year,HY,,0,1
+716,1118-16227,NY,Paradox Lake,2021,Hatch Year,HY,,0,1
+711,1058-00689,NY,Middle Pond  ,2021,Hatch Year,HY,,0,1
+702,1238-08852,MA,Wachusett Reservoir,2021,Hatch Year,HY,,0,1
+616,0968-87775,NY,Newton Falls Reservoir,2020,Hatch Year,HY,,0,1
+615,UNNY-20003,NY,Chaumont Pond,2020,Hatch Year,HY,,0,1
+611,UNNY-20001,NY,Dart Lake,2020,Hatch Year,HY,,0,1
+599,UNNY-19006,NY,Woodruff Pond,2019,Hatch Year,HY,,0,1
+351,UnME-15002,ME,Gull Pond,2015,Hatch Year,HY,,0,1
+669,0689-15644,ME,Long Lake,2021,Hatch Year,HY,1.6,0,1
+1032,1118-16185,NH,Greenough Pond,2014,Female,ATY,1.7,1,0
+836,1118-15279,NH,Chocorua Lake,2016,Female,ATY,1.3,1,0
+347,1118-15253,NH,Winnipesaukee,2015,Female,ATY,1,1,0
+1046,1118-15966,ME,Little Sebago ,2015,Female,ATY,,1,0
+1043,1118-15234,ME,Rangeley Lake,2015,Female,ATY,,1,0
+486,1118-16149,NH,Highland Lake ,2020,Female,ATY,,1,0
+118,0559-61794,ME,Kezar Lake ,2011,Male,ATY,4,1,0
+1017,1118-15920,ME,Somes Pond,2012,Male,ATY,3.8,1,0
+557,0689-09446,ME,Aziscohos,2020,Male,ATY,2.5,1,0
+719,0669-21767,NY,Lake Colby,2021,Male,ATY,2.1,1,0
+73,0938-15266,MA,Quabbin,2011,Male,ATY,2,1,0
+1025,0938-44733,NH,Greenough Pond,2014,Male,ATY,1.9,1,0
+310,1118-15254,NH,Purity Lake,2015,Male,ATY,1.4,1,0
+682,0689-09448,ME,Thompson Lake,2021,Male,ATY,1.4,1,0
+696,0689-15637,ME,Cushman Pond,2021,Male,ATY,0.9,1,0
+1073,0649-08869,MA,Nowtown Reservoir,2018,Male,ATY,,1,0
+612,0938-15379,NY,Gray Lake,2020,Male,ATY,,1,0
+496,1238-04792,NH,Mascoma ,2020,Male,ATY,,1,0
+480,1238-04733,NH,Winnepocket Lake ,2020,Male,ATY,,1,0
+715,UNNY-21003,NY,Horseshoe Lake,2021,Hatch Year,HY,0.1,1,0
+668,1238-04725,ME,Portage Lake,2021,Female,ATY,,1,1
+882,0689-15907,NH,Massabesic Lake,2022,Female,ATY,4.6,1,1
+827,1118-15970,ME,Long Pond,2016,Female,ATY,2.3,1,1
+355,1118-15997,ME,Flagstaff,2015,Female,ATY,2.3,1,1
+839,1118-15221,NH,Ossipee ,2016,Female,ATY,2.2,1,1
+97,0898-09120,ME,Wyman Lake ,2011,Female,ATY,2.1,1,1
+1066,0938-44725,NY,Garnet Lake,2016,Female,ATY,2.05,1,1
+842,0898-09848,NH,Broad Bay,2016,Female,ATY,2,1,1
+641,1118-16102,NH,Lake Francis ,2021,Female,ATY,1.9,1,1
+166,0938-15345,ME,Kezar Lake,2014,Female,ATY,1.9,1,1
+527,1118-16249,ME,Little Sebago ,2019,Female,ATY,1.8,1,1
+688,0689-15629,ME,Jimmie Pond,2021,Female,ATY,1.8,1,1
+628,0689-15608,NH,Winnipesaukee,2021,Female,ATY,1.7,1,1
+1027,1118-16164,NH,Winnipesaukee,2014,Female,ATY,1.5,1,1
+352,0938-15105,ME,Little Sebago,2015,Female,ATY,1.3,1,1
+163,0938-03363,ME,Little Sebago ,2014,Female,ATY,1.3,1,1
+704,1238-08875,MA,Whitehall Reservoir,2021,Female,ATY,1.2,1,1
+165,0938-15148,ME,Little Sebago,2014,Female,ATY,1.2,1,1
+314,1118-15259,NH,Adder Pond,2015,Female,ATY,1.1,1,1
+162,0669-55050,ME,Ingham Pond ,2014,Female,ATY,0.9,1,1
+675,0689-09426,ME,Great Pond,2021,Female,ATY,0.8,1,1
+844,1118-15284,NH,Conner Pond,2016,Female,ATY,0.4,1,1
+1049,0669-55049,ME,Little Sebago ,2015,Female,ATY,,1,1
+1044,1118-15233,ME,Richardson,2015,Female,ATY,,1,1
+466,1118-16129,NH,Webster Lake ,2019,Female,ATY,,1,1
+458,1118-15253,NH,Winnipesaukee,2019,Female,ATY,,1,1
+452,1238-04741,NH,Red Hill Pond ,2019,Female,ATY,,1,1
+451,1118-16123,NH,First Connecticut Lake ,2019,Female,ATY,,1,1
+449,1238-04737,NH,Perch Pond ,2019,Female,ATY,,1,1
+90,0669-21886,NH,Winnipesaukee,2011,Female,ATY,,1,1
+85,1118-15904,NH,Hawkins Ponds,2011,Female,ATY,,1,1
+78,0669-20505,NH,Winnipesaukee,2011,Female,ATY,,1,1
+69,0669-20595,NH,Winnipesaukee,2011,Female,ATY,,1,1
+124,0938-26110,NY,North Lake,2011,Male,ATY,7.3,1,1
+102,0559-61796,ME,Middle Pond Kezar ,2011,Male,ATY,3.7,1,1
+546,0689-09487,ME,Richardson,2020,Male,ATY,3.4,1,1
+635,1238-04783,NH,Crystal Lake,2021,Male,ATY,3.1,1,1
+832,1118-15278,NH,Swains Lake,2016,Male,ATY,3,1,1
+121,0938-03456,NY,Lower Saranac Lake,2011,Male,ATY,2.3,1,1
+278,1118-15962,MA,Fitchburg Reservoir,2015,Male,ATY,1.9,1,1
+95,0669-21968,ME,Little Sebago,2011,Male,ATY,1.7,1,1
+666,0689-09437,ME,Great Pond,2021,Male,ATY,1.5,1,1
+103,0669-20589,ME,Arnold Pond ,2011,Male,ATY,1.4,1,1
+1022,0669-21967,NH,Squam Lake,2014,Male,ATY,1.4,1,1
+705,0689-09439,ME,Great Pond,2021,Male,ATY,1.3,1,1
+892,1238-24417,ME,Portage Lake,2022,Male,ATY,1,1,1
+905,0689-15980,ME,Portage Lake,2022,Male,ATY,0.9,1,1
+633,0689-15621,NH,Mascoma Lake,2021,Male,ATY,,1,1
+596,0898-09900,NY,Middle Saranac Lake,2019,Male,ATY,,1,1
+483,0938-78741,NH,CT Lake ,2020,Male,ATY,,1,1
+459,1238-04735,NH,Winnipesaukee,2019,Male,ATY,,1,1
+444,1238-04746,NH,Little Squam Lake ,2019,Male,ATY,,1,1
+109,1118-15903,NH,Hawkins Ponds,2011,Male,ATY,,1,1
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
