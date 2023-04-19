@@ -7,6 +7,9 @@ output: html_document
 
 ```{r}
 library(ggplot2)
+library(readr)
+Nuttall_Current <- read_csv("Nuttall Current.csv")
+View(Nuttall_Current)
 
 df <- Nuttall_Current
 
@@ -30,6 +33,9 @@ ggplot(new_data, aes(x=df.Sex, y=df.Hg, fill=df.Sex)) +
 
 ```
 ```{r}
+library(readr)
+Nuttall <- read_csv("Nuttall.csv")
+View(Nuttall)
 dff<-Nuttall
 ggplot(dff, aes(x = Hg, fill = State)) +
   geom_histogram(position = 'identity', alpha = 0.4)+labs(x="Blood Hg (ppm)", y="Frequency")
