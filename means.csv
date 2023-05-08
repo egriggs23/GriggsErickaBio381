@@ -1,0 +1,5 @@
+"","files","mean"
+"1",Nuttall Current.csv,function (x, ...) 
+UseMethod("mean")
+"2",Nuttall.csv,function (x, ...) 
+UseMethod("mean")

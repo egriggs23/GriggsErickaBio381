@@ -1,16 +1,30 @@
+---
+title: "HW11"
+output: html_document
+date: "2023-04-26"
+---
+
+```{r setup, include=FALSE}
 library(tidyverse)
 library(readr)
 library(dplyr)
 Nuttall <- read_csv("~/GriggsErickaBio381/Nuttall.csv")
 x<-Nuttall
-setwd(~/GriggsErickaBio381/HW11 Output)
+dir.create("Output")
+```
+
+```{r}
 for(i in 2010:2022){ 
   y<-x%>%
     filter(`Year Collected`==i)
 output<-paste0(i,".csv")
+setwd("Output")
  write.csv(y, file=output, sep = ",", col.names = TRUE, row.names = FALSE)
+setwd("~/GriggsErickaBio381")
 }
-
+```
+```{r}
+setwd("~/GriggsErickaBio381/Output")
 files <- list.files(pattern = ".csv")  
 
 dat<-list()
@@ -19,6 +33,11 @@ for(i in sequence(length(files))){
   col.avg <- mean(Data[, "Hg"], na.rm = TRUE)
   dat[i]<-col.avg
 }
+```
 
+```{r}
 Blood_Hg <- unlist(dat, use.names = FALSE)
 hist(Blood_Hg)
+```
+
+
